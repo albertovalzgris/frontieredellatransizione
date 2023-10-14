@@ -252,7 +252,6 @@
 		.credits-container {
 			grid-template-columns: repeat(2, minmax(0, 1fr));
 			grid-template-rows: repeat(6, minmax(0, 1fr));
-			grid-auto-flow: row;
 		}
 
 		.credits-container > p:last-child {
